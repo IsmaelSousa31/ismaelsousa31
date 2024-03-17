@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante fullstack;<br>Estou cursando o 2 semestre de ADS;<br>Estou em busca do meu primeiro estágio.
+Sou estudante fullstack;<br>Estou cursando o 3 semestre de ADS;<br>Estou em busca do meu primeiro estágio.
 
 
 ## 🌐 Socials:
