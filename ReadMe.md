@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou cursando o 3ª semestre de análise e desenvolvimento de sistemas;<br>Estou em busca do meu primeiro estágio.
+Estou cursando o 4ª semestre de análise e desenvolvimento de sistemas;<br>Estou em busca do meu primeiro estágio.
 
 
 ## 🌐 Socials:
