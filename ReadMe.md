@@ -1,6 +1,5 @@
-# 💫 About Me:
-Estou cursando o 4ª semestre de análise e desenvolvimento de sistemas;<br>Estou em busca do meu primeiro estágio.
-
+# 💫 Sobre mim:
+Graduado em Análise e Desenvolvimento de Sistemas
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismaelsousa_31) 
