@@ -42,8 +42,6 @@
 
   <hr>
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ismaelsousa31&icon=7&color=1" alt="Visit Count">
-  </a>
+  
 
 </div>
